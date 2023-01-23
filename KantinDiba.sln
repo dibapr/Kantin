@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "KantinDiba", "KantinDiba\KantinDiba.vbproj", "{15905A20-487E-40D1-87B4-E3158D768C1D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15905A20-487E-40D1-87B4-E3158D768C1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15905A20-487E-40D1-87B4-E3158D768C1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15905A20-487E-40D1-87B4-E3158D768C1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15905A20-487E-40D1-87B4-E3158D768C1D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D0F3C054-7D90-4C63-BA1E-03DB0E86F36A}
+	EndGlobalSection
+EndGlobal
